@@ -5,7 +5,7 @@ using TMPro;
 public class DialogueContainer
 {
     public GameObject Root;
-    public TMP_Text NameText;
-    public TMP_Text DialogueText;
+    public TextMeshProUGUI NameText;
+    public TextMeshProUGUI DialogueText;
 }
   
